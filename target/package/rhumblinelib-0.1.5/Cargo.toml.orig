@@ -1,0 +1,16 @@
+[package]
+name = "rhumblinelib"
+version = "0.1.5"
+authors = ["Natasa Farmaki <natazf@gmail.com>", "Kyriakos Mountakis <k.s.mountakis@gmail.com>"]
+edition = "2018"
+build = "build.rs"
+license = "MIT"
+description = "Wrapper of geographiclib functionalies related to rhumbline"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[build-dependencies]
+cc = "1.0"

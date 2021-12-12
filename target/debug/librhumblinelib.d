@@ -1,0 +1,1 @@
+/home/natassa/workspace/geographic_libraries/rhumblinelib_bitbucket/rhumblinelib/target/debug/librhumblinelib.rlib: /home/natassa/workspace/geographic_libraries/rhumblinelib_bitbucket/rhumblinelib/build.rs /home/natassa/workspace/geographic_libraries/rhumblinelib_bitbucket/rhumblinelib/src/lib.rs
